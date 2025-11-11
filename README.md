@@ -73,7 +73,7 @@ log(Sales) = β₀ + β₁ × log(Price) + ε
 
 ### Strategic Insights
 
-#### ✅ **Inelastic Products** (XX categories)
+####  **Inelastic Products** (XX categories)
 *These can sustain price increases:*
 - [Seafood]: Elasticity = 0.864
 - [Breads]: Elasticity = 0.968
@@ -81,7 +81,7 @@ log(Sales) = β₀ + β₁ × log(Price) + ε
 
 **Recommendation**: Implement 5-10% strategic price increases to improve margins
 
-#### ⚠️ **Elastic Products** (XX categories)
+####  **Elastic Products** (XX categories)
 *These are price-sensitive:*
 - [Meat]: Elasticity = 1.0072
 - [Baking Goods]: Elasticity = 1.0104
@@ -102,7 +102,7 @@ log(Sales) = β₀ + β₁ × log(Price) + ε
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### 1. Price-Sales Relationship
 <img width="2962" height="1763" alt="image" src="https://github.com/user-attachments/assets/a3eb1ff1-71c1-4e01-ac4c-657160908f27" />
@@ -170,7 +170,7 @@ This analysis framework applies to:
 
 ---
 
-## 📚 Econometric Background
+## Econometric Background
 
 ### Why Log-Log Regression?
 
